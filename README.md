@@ -1,2 +1,2 @@
 # akrata-icons
- Tema de icones com cores Catppuccin, sendo baseado no BeautyLine, Papirus e Candy
+Tema de icones que apresenta a fusão entre BeautyLine, Papirus e Candy, harmonizada com a paleta de cores do Catppuccin mocha.
