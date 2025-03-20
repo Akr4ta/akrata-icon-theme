@@ -1,2 +1,2 @@
-# akrata-icons
-Tema de icones que apresenta a fusão entre BeautyLine, Sweet, Papirus e Candy, harmonizada com a paleta de cores do Catppuccin mocha
+# Akrata-icons
+Icon theme that combines BeautyLine, Sweet, Papirus, and Candy, harmonized with the Catppuccin Mocha color palette
