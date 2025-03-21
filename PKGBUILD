@@ -2,7 +2,7 @@
 pkgname=akrata-icon-theme
 pkgver=20250321
 pkgrel=1
-pkgdesc="Icones bla bla"
+pkgdesc="Cyberpunk themed icons for dark themes"
 arch=("any")
 url="https://github.com/Akr4ta/$pkgname"
 license=("GPL3")
