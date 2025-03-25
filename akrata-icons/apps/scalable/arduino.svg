@@ -7,8 +7,8 @@
 <stop offset="1" stop-color="#a6e3a1"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="32.119" y1="38.0493" x2="32.119" y2="28.0522" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 </defs>
 </svg>

@@ -4,8 +4,8 @@
 <path d="M24 28C26.2091 28 28 26.2091 28 24C28 21.7909 26.2091 20 24 20C21.7909 20 20 21.7909 20 24C20 26.2091 21.7909 28 24 28Z" fill="white"/>
 <defs>
 <linearGradient id="paint0_linear_640_81" x1="22.2606" y1="42.9257" x2="26.7798" y2="6.78158" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_640_81" x1="19.5375" y1="29.1111" x2="33.5853" y2="18.3863" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fab387"/>

@@ -3,8 +3,8 @@
 <path d="M21.3469 7.79756L13.9256 2.65978C13.5608 2.40724 13.0625 2.66832 13.0625 3.11199V3.67818C13.0625 3.85867 13.151 4.02767 13.2995 4.13039L18.5967 7.79756C18.9127 8.01627 18.9127 8.48327 18.5967 8.70198L13.2995 12.3691C13.151 12.4719 13.0625 12.6409 13.0625 12.8214V13.3876C13.0625 13.8312 13.5608 14.0923 13.9256 13.8397L21.3469 8.70198C21.6627 8.48327 21.6627 8.01627 21.3469 7.79756Z" fill="url(#paint1_linear_451_2517)"/>
 <defs>
 <linearGradient id="paint0_linear_451_2517" x1="17.1875" y1="19.2498" x2="-3.55149" y2="10.2106" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0357D1"/>
-<stop offset="1" stop-color="#27CDFC"/>
+<stop stop-color="#89b4fa"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_2517" x1="17.5312" y1="14.4373" x2="17.5312" y2="2.06227" gradientUnits="userSpaceOnUse">
 <stop stop-color="#a6e3a1"/>

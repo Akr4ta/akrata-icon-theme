@@ -3,16 +3,16 @@
 <rect x="1.94941" y="2.55098" width="13.0406" height="10.961" rx="1.2" stroke="url(#paint2_linear_1005_170)" stroke-width="1.6"/>
 <defs>
 <linearGradient id="paint0_linear_1005_170" x1="12" y1="11.5" x2="6.17534" y2="5.61008" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="0.905415" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="0.905415" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1005_170" x1="12" y1="11.5" x2="6.17534" y2="5.61008" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="0.905415" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="0.905415" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint2_linear_1005_170" x1="15.79" y1="14.312" x2="5.477" y2="2.15689" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="0.905415" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="0.905415" stop-color="#a78bfa"/>
 </linearGradient>
 </defs>
 </svg>

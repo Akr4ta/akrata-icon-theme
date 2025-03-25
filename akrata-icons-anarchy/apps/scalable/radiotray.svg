@@ -20,12 +20,12 @@
 <stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="12.5714" y1="63.7349" x2="109.609" y2="51.5343" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint5_linear" x1="12.5714" y1="63.7349" x2="109.609" y2="51.5343" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 </defs>
 </svg>

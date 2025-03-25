@@ -3,8 +3,8 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6 9.54545H9.4C9.17909 9.54545 9 9.36637 9 9.14545V7.4C9 7.17909 9.17909 7 9.4 7H14.6C14.8209 7 15 7.17909 15 7.4V9.14545C15 9.36637 14.8209 9.54545 14.6 9.54545ZM14.6 16.4545H9.4C9.17909 16.4545 9 16.6336 9 16.8545V18.6C9 18.8209 9.17909 19 9.4 19H14.6C14.8209 19 15 18.8209 15 18.6V16.8545C15 16.6336 14.8209 16.4545 14.6 16.4545Z" fill="url(#paint1_linear_637_113)"/>
 <defs>
 <linearGradient id="paint0_linear_637_113" x1="3" y1="23" x2="25.5316" y2="15.1436" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0357D1"/>
-<stop offset="1" stop-color="#27CDFC"/>
+<stop stop-color="#89b4fa"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_637_113" x1="10.0875" y1="17.5833" x2="18.0934" y2="14.0907" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fab387"/>

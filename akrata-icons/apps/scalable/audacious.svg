@@ -3,19 +3,19 @@
 <path d="M45.4123 38.4276C47.3899 35.9339 50.8841 37.0187 53.6051 36.7927C59.3594 37.0715 65.2401 36.1297 70.8905 37.5009C77.8565 39.4748 83.1792 46.2101 83.4472 53.5556C83.6332 61.8354 83.5365 70.1227 83.4099 78.4027C83.2465 83.0807 79.6332 87.2927 75.1425 88.2413C71.2172 88.784 67.2325 88.362 63.2774 88.498C58.8019 88.6487 54.2668 87.202 50.8172 84.2787C45.6577 80.0673 43.1597 72.8573 44.5574 66.2879C45.903 59.1985 51.7614 53.2693 58.7721 51.9283C63.9539 51.1147 69.2325 51.7399 74.4512 51.5064C73.0759 48.3648 70.2065 45.7957 66.7199 45.5697C60.6233 45.3663 54.5121 45.6451 48.4159 45.4567C45.1075 45.419 43.234 40.9213 45.4123 38.4276ZM52.9211 68.4953C52.1331 72.8727 54.8095 77.5287 58.9059 79.0807C62.4373 80.3613 66.2883 79.5553 69.9539 79.796C71.5299 79.638 73.7452 80.3233 74.6672 78.576C75.1872 72.488 74.2505 66.3557 74.8305 60.2608C70.4665 60.4943 66.0951 60.1629 61.731 60.3437C57.3893 60.5245 53.5457 64.1633 52.9211 68.4953Z" fill="url(#paint2_linear_618_223)" stroke="url(#paint3_linear_618_223)" stroke-width="4"/>
 <defs>
 <linearGradient id="paint0_linear_618_223" x1="8.01641" y1="62.0185" x2="120.019" y2="62.0185" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="0.96875" stop-color="#FF12FF"/>
 </linearGradient>
 <linearGradient id="paint1_linear_618_223" x1="8.01641" y1="62.0185" x2="120.019" y2="62.0185" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="0.96875" stop-color="#FF12FF"/>
 </linearGradient>
 <linearGradient id="paint2_linear_618_223" x1="44.1796" y1="61.8628" x2="83.5572" y2="61.8628" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FF13FF"/>
 </linearGradient>
 <linearGradient id="paint3_linear_618_223" x1="44.1796" y1="61.8627" x2="83.5574" y2="61.8627" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="0.96875" stop-color="#FF12FF"/>
 </linearGradient>
 </defs>

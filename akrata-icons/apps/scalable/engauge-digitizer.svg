@@ -7,12 +7,12 @@
 <path d="M116 48C122.627 48 128 42.6274 128 36C128 29.3726 122.627 24 116 24C109.373 24 104 29.3726 104 36C104 42.6274 109.373 48 116 48Z" fill="url(#paint5_linear)"/>
 <defs>
 <linearGradient id="paint0_linear" x1="31.4063" y1="64.0011" x2="115.125" y2="51.9713" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="11" y1="71.5" x2="112.952" y2="58.9375" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="36" y1="104" x2="36" y2="80" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f9e2af"/>

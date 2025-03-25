@@ -4,8 +4,8 @@
 <rect x="21" y="53" width="8" height="44" rx="4" fill="url(#paint2_linear)"/>
 <defs>
 <linearGradient id="paint0_linear" x1="63.9997" y1="117.333" x2="63.9997" y2="10.6667" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cba6f7"/>
-<stop offset="1" stop-color="#cba6f7"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="66.6667" y1="96" x2="66.6667" y2="53.3334" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f9e2af"/>

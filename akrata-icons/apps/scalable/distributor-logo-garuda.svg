@@ -47,7 +47,7 @@
          style="stop-color:#ff1755;stop-opacity:1" />
       <stop
          offset="0.93203861"
-         stop-color="#FF005B"
+         stop-color="#f9e2af"
          id="stop1029"
          style="stop-color:#ff7c3c;stop-opacity:1" />
     </linearGradient>
@@ -83,7 +83,7 @@
          id="stop6" />
       <stop
          offset="0.986957"
-         stop-color="#FF005B"
+         stop-color="#f9e2af"
          id="stop8" />
     </linearGradient>
   </defs>

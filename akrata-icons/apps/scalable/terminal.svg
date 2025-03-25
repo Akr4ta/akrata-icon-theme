@@ -4,8 +4,8 @@
 <path d="M62.3386 81.9604C63.4508 81.5783 64.7133 81.6696 65.9006 81.6353C76.1736 81.6639 86.4541 81.6182 96.7271 81.6524C99.2742 81.4984 101.702 83.1239 101.74 85.0746C101.95 87.1394 99.4028 89.033 96.6745 88.7593C85.9205 88.7593 75.1591 88.7764 64.4052 88.7535C61.82 88.9474 59.4152 87.0652 59.543 85.1317C59.558 83.78 60.6852 82.4738 62.3386 81.9604Z" fill="url(#paint2_linear_301_50)"/>
 <defs>
 <linearGradient id="paint0_linear_301_50" x1="6.71687" y1="108.369" x2="54.5492" y2="84.9076" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F35C58"/>
-<stop offset="1" stop-color="#B118F0"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_301_50" x1="53.9895" y1="61.2909" x2="33.1827" y2="77.0116" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fab387"/>
