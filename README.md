@@ -12,3 +12,6 @@ Extract the .zip file to the icons directory ~/.local/share/.icons/ (create it i
 
 # Usage
 Change via distribution specific tweak-tool.
+
+# Warning
+This icon theme has only been tested in Cosmic and Gnome DEs, other environments may present color inconsistencies.
