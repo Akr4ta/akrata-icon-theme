@@ -9,9 +9,11 @@ Icon theme that combines BeautyLine, Sweet, Papirus, and Candy, harmonized with 
 # Install
 Download the .zip file
 Extract the .zip file to the icons directory ~/.local/share/.icons/ (create it if necessary).
+Ensure papirus-icon-theme is installed for correct device icons
 
 # Usage
 Change via distribution specific tweak-tool.
 
 # Warning
-This icon theme has only been tested in Cosmic and Gnome DEs, other environments may present color inconsistencies.
+This icon theme has only been tested in Cosmic and GNOME desktop environments. Other environments may display color inconsistencies.
+Akrata Theme uses device icons from Papirus Icon Theme. Not installing Papirus may result in missing or incorrect device icons.
