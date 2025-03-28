@@ -6,6 +6,8 @@ Icon theme that combines BeautyLine, Sweet, Papirus, and Candy, harmonized with 
 * Sweet for the cursor and folder themes,
 * Catppuccin Mocha as the color reference.
 
+There are two versions: akrata-icons (the default) and akrata-icons-anarchy. The only difference is that in the anarchy version, the menu/view-grid icon is replaced by the anarchist "A" symbol.
+
 # Install
 Download the .zip file.
 
