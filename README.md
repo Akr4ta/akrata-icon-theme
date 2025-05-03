@@ -37,7 +37,7 @@ Finally, run:
 Move either the akrata-icons or akrata-icons-anarchy folder to icons directory ~/.local/share/icons/
 
 # Warning
-This icon theme has only been tested in Cosmic and GNOME desktop environments. Other environments may display color inconsistencies.
+This icon theme has only been tested in Cosmic desktop environment. Other environments may display color inconsistencies.
 
 Akrata Theme uses device icons from Papirus Icon Theme. Not installing Papirus may result in missing or incorrect device icons.
 
