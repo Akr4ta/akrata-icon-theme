@@ -41,15 +41,15 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
+     bordercolor="#cdd6f4"
+     pagecolor="#cdd6f4" />
   <defs
      id="defs3051">
     <style
        id="current-color-scheme"
        type="text/css">
      .ColorScheme-Text {
-       color:#f2f2f2;
+       color:#cdd6f4;
      }
      </style>
   </defs>
@@ -60,10 +60,10 @@
      height="3.8275256"
      width="19.738066"
      id="rect839"
-     style="fill:#ff26ff;stroke-width:1.18105;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+     style="fill:#cdd6f4;stroke-width:1.18105;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
   <rect
      transform="rotate(90)"
-     style="fill:#ff26ff;stroke-width:1.18105;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+     style="fill:#cdd6f4;stroke-width:1.18105;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
      id="rect1111"
      width="19.441437"
      height="3.8859239"

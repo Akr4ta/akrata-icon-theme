@@ -15,13 +15,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1841"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
+     pagecolor="#cdd6f4"
+     bordercolor="#cdd6f4"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
+     inkscape:deskcolor="#cdd6f4"
      showgrid="false"
      inkscape:zoom="30.958333"
      inkscape:cx="9.3674293"
@@ -46,11 +46,11 @@
        y2="11.8159"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#f38ba8"
+         stop-color="#cdd6f4"
          id="stop1832" />
       <stop
          offset="1"
-         stop-color="#f38ba8"
+         stop-color="#cdd6f4"
          id="stop1834" />
     </linearGradient>
     <linearGradient
@@ -67,17 +67,17 @@
        inkscape:collect="always"
        id="linearGradient1784">
       <stop
-         style="stop-color:#f38ba8;stop-opacity:1;"
+         style="stop-color:#cdd6f4;stop-opacity:1;"
          offset="0"
          id="stop1780" />
       <stop
-         style="stop-color:#f38ba8;stop-opacity:1;"
+         style="stop-color:#cdd6f4;stop-opacity:1;"
          offset="1"
          id="stop1782" />
     </linearGradient>
   </defs>
   <path
-     style="fill:#f38ba8;fill-opacity:1;stroke:url(#linearGradient1786);stroke-width:2.513;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#cdd6f4;fill-opacity:1;stroke:url(#linearGradient1786);stroke-width:2.513;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
      d="m 3.73226,3.87955 c -3.3e-5,5.5113311 -0.0011,10.763251 -0.0031,16.272582"
      id="path447"
      sodipodi:nodetypes="cc" />

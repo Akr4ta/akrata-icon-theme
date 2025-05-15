@@ -6,19 +6,19 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_451_3316" x1="15.5" y1="19.9996" x2="15.5" y2="9.38867" gradientUnits="userSpaceOnUse">
-<stop stop-color="#a6e3a1"/>
-<stop offset="1" stop-color="#a6e3a1"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_3316" x1="3.9575" y1="18.747" x2="13.5476" y2="10.2304" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint2_linear_451_3316" x1="6.37104" y1="7.40001" x2="15.1355" y2="6.43148" gradientUnits="userSpaceOnUse">
-<stop stop-color="#a78bfa"/>
-<stop offset="1" stop-color="#a78bfa"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <clipPath id="clip0_451_3316">
-<rect width="22" height="22" fill="white"/>
+<rect width="22" height="22" fill="#cdd6f4"/>
 </clipPath>
 </defs>
 </svg>

@@ -5,17 +5,17 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_451_2804" x1="3.33575" y1="3.20101" x2="15.2136" y2="11.3165" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8F0CFF"/>
-<stop offset="0.516064" stop-color="#AA1DFF"/>
-<stop offset="1" stop-color="#B826FF"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="0.516064" stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_2804" x1="12.2044" y1="8.03538" x2="19.0988" y2="15.3994" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8F0CFF"/>
-<stop offset="0.516064" stop-color="#AA1DFF"/>
-<stop offset="1" stop-color="#B826FF"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="0.516064" stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <clipPath id="clip0_451_2804">
-<rect width="22" height="22" fill="white"/>
+<rect width="22" height="22" fill="#cdd6f4"/>
 </clipPath>
 </defs>
 </svg>

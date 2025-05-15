@@ -6,28 +6,28 @@
 <path d="M13.8076 16.1083C13.8076 15.7033 14.1771 15.375 14.6326 15.375H19.8003C20.256 15.375 20.6253 15.7033 20.6253 16.1083V16.1792C20.6253 16.5841 20.256 16.9126 19.8003 16.9126H14.6326C14.1771 16.9126 13.8076 16.5841 13.8076 16.1792V16.1083Z" fill="url(#paint5_linear_451_2660)"/>
 <defs>
 <linearGradient id="paint0_linear_451_2660" x1="3.51739" y1="16.2524" x2="7.81307" y2="8.43652" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_2660" x1="4.86479" y1="9.79493" x2="8.75878" y2="-0.397814" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint2_linear_451_2660" x1="4.86479" y1="9.79493" x2="8.75878" y2="-0.397814" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint3_linear_451_2660" x1="15.0433" y1="16.1622" x2="20.8158" y2="10.7601" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint4_linear_451_2660" x1="15.0433" y1="16.1619" x2="20.8158" y2="10.7598" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint5_linear_451_2660" x1="15.0433" y1="16.1621" x2="20.8157" y2="10.7599" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 </defs>
 </svg>

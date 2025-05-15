@@ -46,8 +46,8 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
+     bordercolor="#cdd6f4"
+     pagecolor="#cdd6f4" />
   <linearGradient
      gradientUnits="userSpaceOnUse"
      gradientTransform="matrix(44,0,0,44,2,2)"
@@ -58,17 +58,17 @@
      id="_lgradient_10">
     <stop
        id="stop2"
-       style="stop-color:#a770ef;stop-opacity:1"
+       style="stop-color:#cdd6f4;stop-opacity:1"
        stop-opacity="1"
        offset="0%" />
     <stop
        offset="0.5"
        stop-opacity="1"
-       style="stop-color:#cf8bf3;stop-opacity:1"
+       style="stop-color:#cdd6f4;stop-opacity:1"
        id="stop840" />
     <stop
        id="stop4"
-       style="stop-color:#fdb99b;stop-opacity:1"
+       style="stop-color:#cdd6f4;stop-opacity:1"
        stop-opacity="1"
        offset="100%" />
   </linearGradient>

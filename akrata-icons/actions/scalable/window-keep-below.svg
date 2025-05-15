@@ -7,23 +7,23 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_451_2150" x1="4.625" y1="18.3125" x2="22.3685" y2="2.53928" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_2150" x1="4.625" y1="18.3127" x2="22.3685" y2="2.53947" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint2_linear_451_2150" x1="4.625" y1="18.3125" x2="22.3685" y2="2.53928" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <linearGradient id="paint3_linear_451_2150" x1="4.625" y1="18.3127" x2="22.3685" y2="2.53947" gradientUnits="userSpaceOnUse">
-<stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#fab387"/>
+<stop stop-color="#cdd6f4"/>
+<stop offset="1" stop-color="#cdd6f4"/>
 </linearGradient>
 <clipPath id="clip0_451_2150">
-<rect width="22" height="22" fill="white"/>
+<rect width="22" height="22" fill="#cdd6f4"/>
 </clipPath>
 </defs>
 </svg>
