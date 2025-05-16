@@ -5,19 +5,19 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_451_844" x1="47.8578" y1="4.00674" x2="8.19539" y2="50.6227" gradientUnits="userSpaceOnUse">
-<stop stop-color="#f38ba8"/>
-<stop offset="1" stop-color="#f38ba8"/>
+<stop stop-color="#7287fd"/>
+<stop offset="1" stop-color="#7287fd"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_844" x1="32.4148" y1="16.6236" x2="13.3211" y2="32.8535" gradientUnits="userSpaceOnUse">
-<stop stop-color="#f38ba8"/>
-<stop offset="1" stop-color="#f38ba8"/>
+<stop stop-color="#7287fd"/>
+<stop offset="1" stop-color="#7287fd"/>
 </linearGradient>
 <linearGradient id="paint2_linear_451_844" x1="32.4148" y1="16.6236" x2="13.3211" y2="32.8535" gradientUnits="userSpaceOnUse">
-<stop stop-color="#f38ba8"/>
-<stop offset="1" stop-color="#f38ba8"/>
+<stop stop-color="#7287fd"/>
+<stop offset="1" stop-color="#7287fd"/>
 </linearGradient>
 <clipPath id="clip0_451_844">
-<rect width="48" height="48" fill="white"/>
+<rect width="48" height="48" fill="#7287fd"/>
 </clipPath>
 </defs>
 </svg>
