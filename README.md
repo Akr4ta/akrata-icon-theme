@@ -1,4 +1,6 @@
 # Akrata-icons
+![ex_image](https://github.com/Akr4ta/akrata-icon-theme/blob/main/ex_image.jpg)
+
 Icon theme that combines BeautyLine, Sweet, Papirus, and Candy, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
 * Papirus for device-related icons,
