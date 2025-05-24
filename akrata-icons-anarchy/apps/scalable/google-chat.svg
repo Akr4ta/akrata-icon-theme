@@ -4,8 +4,8 @@
 <path d="M17 34C16.4477 34 16 34.4477 16 35V35C16 35.5523 16.4477 36 17 36H37C37.5523 36 38 35.5523 38 35V35C38 34.4477 37.5523 34 37 34H17ZM17 40C16.4477 40 16 40.4477 16 41V41C16 41.5523 16.4477 42 17 42H37C37.5523 42 38 41.5523 38 41V41C38 40.4477 37.5523 40 37 40H17ZM17 46C16.4477 46 16 46.4477 16 47V47C16 47.5523 16.4477 48 17 48H31.8C32.3523 48 32.8 47.5523 32.8 47V47C32.8 46.4477 32.3523 46 31.8 46H17Z" stroke="url(#paint2_linear)" stroke-width="2"/>
 <defs>
 <linearGradient id="paint0_linear" x1="40" y1="6" x2="40" y2="40" gradientUnits="userSpaceOnUse">
-<stop stop-color="#DC18FC"/>
-<stop offset="1" stop-color="#8E1EFF"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="24" y1="58" x2="24" y2="24" gradientUnits="userSpaceOnUse">
 <stop stop-color="#89b4fa"/>

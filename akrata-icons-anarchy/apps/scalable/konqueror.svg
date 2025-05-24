@@ -9,9 +9,9 @@
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="9" y1="11.5" x2="9" y2="2.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ADDCFF"/>
-<stop offset="0.5028" stop-color="#EAF6FF"/>
-<stop offset="1" stop-color="#EAF6FF"/>
+<stop stop-color="#b4befe"/>
+<stop offset="0.5028" stop-color="#b4befe"/>
+<stop offset="1" stop-color="#b4befe"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="16" height="16" fill="white"/>

@@ -4,8 +4,8 @@
 <path d="M53 40C52.4477 40 52 40.4477 52 41V87C52 87.5523 52.4477 88 53 88H59C59.5523 88 60 87.5523 60 87V41C60 40.4477 59.5523 40 59 40H53Z" fill="#DE3E3E"/>
 <defs>
 <linearGradient id="paint0_linear_705_66" x1="91.8938" y1="40" x2="62.0861" y2="107.256" gradientUnits="userSpaceOnUse">
-<stop stop-color="#DE00C0"/>
-<stop offset="1" stop-color="#8720FF"/>
+<stop stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_705_66" x1="118.563" y1="19.5812" x2="38.3928" y2="129.514" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f38ba8"/>

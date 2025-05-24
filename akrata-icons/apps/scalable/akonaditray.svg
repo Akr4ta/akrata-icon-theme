@@ -4,9 +4,9 @@
 <path d="M43 24C43 34.493 34.493 43 24 43C13.507 43 5 34.493 5 24C10.3113 14.7021 33.749 20.3833 43 24Z" stroke="url(#paint2_linear_640_55)" stroke-width="5"/>
 <defs>
 <linearGradient id="paint0_linear_640_55" x1="30" y1="24" x2="30" y2="7" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ADDCFF"/>
-<stop offset="0.5028" stop-color="#EAF6FF"/>
-<stop offset="1" stop-color="#EAF6FF"/>
+<stop stop-color="#b4befe"/>
+<stop offset="0.5028" stop-color="#b4befe"/>
+<stop offset="1" stop-color="#b4befe"/>
 </linearGradient>
 <linearGradient id="paint1_linear_640_55" x1="13.7484" y1="20.5919" x2="33.4226" y2="18.4816" gradientUnits="userSpaceOnUse">
 <stop stop-color="#89b4fa"/>
