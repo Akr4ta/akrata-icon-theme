@@ -43,4 +43,6 @@ This icon theme has only been tested in Gnome and Cosmic desktop environment. Ot
 
 Akrata Theme uses device icons from Papirus Icon Theme. Not installing Papirus may result in missing or incorrect device icons.
 
+This theme was designed to be used in dark themes.
+
 This theme is still a work in progress, as we're currently adjusting the icon colors.
