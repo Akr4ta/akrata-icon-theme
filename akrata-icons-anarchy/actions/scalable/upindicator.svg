@@ -4,15 +4,15 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_451_2373" x1="20.4024" y1="5.82995" x2="17.5637" y2="18.2819" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cdd6f4"/>
-<stop offset="1" stop-color="#cdd6f4"/>
+<stop stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_2373" x1="20.4024" y1="5.82995" x2="17.5637" y2="18.2819" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cdd6f4"/>
-<stop offset="1" stop-color="#cdd6f4"/>
+<stop stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
 </linearGradient>
 <clipPath id="clip0_451_2373">
-<rect width="22" height="22" fill="#cdd6f4"/>
+<rect width="22" height="22" fill="#ffffff"/>
 </clipPath>
 </defs>
 </svg>

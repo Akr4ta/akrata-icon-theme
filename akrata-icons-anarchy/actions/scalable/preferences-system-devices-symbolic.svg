@@ -46,8 +46,8 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#cdd6f4"
-     pagecolor="#cdd6f4" />
+     bordercolor="#ffffff"
+     pagecolor="#ffffff" />
   <image
      id="image845"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAgAElEQVR42u1dd3gUVdc/d2a2pick

@@ -42,15 +42,15 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#cdd6f4"
-     pagecolor="#cdd6f4" />
+     bordercolor="#ffffff"
+     pagecolor="#ffffff" />
   <defs
      id="defs3051">
     <style
        id="current-color-scheme"
        type="text/css">
      .ColorScheme-Text {
-       color:#cdd6f4;
+       color:#ffffff;
      }
      </style>
   </defs>

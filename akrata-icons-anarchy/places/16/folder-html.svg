@@ -8,11 +8,11 @@
 <use xlink:href="#image0_448_518" transform="scale(0.00520833)"/>
 </pattern>
 <linearGradient id="paint0_linear_448_518" x1="7.81987" y1="15" x2="7.81987" y2="0.999999" gradientUnits="userSpaceOnUse">
-<stop stop-color="#cdd6f4"/>
-<stop offset="1" stop-color="#cdd6f4"/>
+<stop stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
 </linearGradient>
 <clipPath id="clip0_448_518">
-<rect width="16" height="16" fill="#cdd6f4"/>
+<rect width="16" height="16" fill="#ffffff"/>
 </clipPath>
 <image id="image0_448_518" width="192" height="192" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAgAElEQVR42u29eXxU5fU/fs5z7+wz"/>
 </defs>
