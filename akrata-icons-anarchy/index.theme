@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Akrata-Anarchy
-Inherits=Papirus,breeze,Adwaita,ubuntu-mono,yaru,Mint-X,elementary,hicolor
+Inherits=Adwaita,Papirus,breeze,ubuntu-mono,yaru,Mint-X,elementary,hicolor
 
 
 # Directory list
