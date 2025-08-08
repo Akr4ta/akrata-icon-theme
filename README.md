@@ -1,9 +1,9 @@
 # Akrata-icons
 <img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/ex_image.jpg" alt="e.g image">
 
-Icon theme that combines BeautyLine, Sweet, Papirus, and Candy, harmonized with the Catppuccin Mocha color palette.
+Icon theme that combines BeautyLine, Sweet, Papirus, Adwaita, and Candy, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
-* Papirus for device-related icons,
+* Papirus and Adwaita for panel and file manager icons,
 * Candy to replace some app icons,
 * Sweet for the cursor and folder themes,
 * Catppuccin Mocha as the color reference.
@@ -15,7 +15,7 @@ Download the .zip file.
 
 Extract the archive and move either the akrata-icons or akrata-icons-anarchy folder to icons directory ~/.local/share/icons/ (Create this directory if it doesn't exist).
 
-Ensure papirus-icon-theme is installed for correct device icons.
+Ensure papirus-icon-theme and adwaita-icon-theme is installed for correct panel and file manager icons.
 
 # Usage
 Change via distribution specific tweak-tool.
@@ -39,9 +39,9 @@ Finally, run:
 Move either the akrata-icons or akrata-icons-anarchy folder to icons directory ~/.local/share/icons/
 
 # Warning
-This icon theme has only been tested in Gnome and Cosmic desktop environment. Other environments may display color inconsistencies.
+This icon theme has only been tested on GNOME and COSMIC desktop environments. Other environments may display colors inconsistently.
 
-Akrata Theme uses device icons from Papirus Icon Theme. Not installing Papirus may result in missing or incorrect device icons.
+The Akrata Theme uses icons from the Papirus and Adwaita icon themes. Not installing them may result in missing or incorrect device icons.
 
 This theme was designed to be used in dark themes.
 
