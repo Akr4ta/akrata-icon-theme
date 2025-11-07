@@ -1,10 +1,10 @@
 [Icon Theme]
 Name=Akrata-Anarchy
-Inherits=Adwaita,Papirus,breeze,ubuntu-mono,yaru,Mint-X,elementary,hicolor
+Inherits=Adwaita,Papirus,Papirus-Dark,candy-icons,breeze-dark,ubuntu-mono,yaru,Mint-X,elementary,hicolor
 
 
 # Directory list
-Directories=actions/scalable,places/16,places/48,apps/scalable,devices/scalable,mimetypes/scalable
+Directories=actions/scalable,places/16,places/48,apps/scalable,status/scalable,devices/scalable,mimetypes/scalable
 Example=folder
 DisplayDepth=32
 
@@ -75,3 +75,9 @@ MinSize=48
 MaxSize=512
 Type=Scalable
 
+[status/scalable]
+Context=Status
+Size=22
+MinSize=8
+MaxSize=512
+Type=Scalable
