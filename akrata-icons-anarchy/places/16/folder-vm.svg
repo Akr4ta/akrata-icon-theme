@@ -15,13 +15,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7392"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      showgrid="false"
      inkscape:zoom="50.1875"
      inkscape:cx="4.1145704"
@@ -42,11 +42,11 @@
        y2="11.1133"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7370" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7372" />
     </linearGradient>
     <linearGradient
@@ -57,11 +57,11 @@
        y2="11.1133"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7375" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7377" />
     </linearGradient>
     <linearGradient
@@ -72,11 +72,11 @@
        y2="7.83577"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7380" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7382" />
     </linearGradient>
     <clipPath
@@ -84,7 +84,7 @@
       <rect
          width="16"
          height="16"
-         fill="#ffffff"
+         fill=""
          id="rect7385" />
     </clipPath>
     <linearGradient
@@ -96,11 +96,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.02261293,0,0,0.02261293,51.482647,39.580003)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop11" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop13-3" />
     </linearGradient>
     <linearGradient
@@ -117,11 +117,11 @@
        inkscape:collect="always"
        id="linearGradient3326">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0"
          id="stop3322" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="1"
          id="stop3324" />
     </linearGradient>

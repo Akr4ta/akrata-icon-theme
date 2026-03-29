@@ -4,15 +4,15 @@
 <path d="M150.397 147.073C149.66 147.994 147.355 149.374 147.355 152.32C147.355 154.714 148.922 157.015 151.688 158.948C164.962 168.154 189.944 166.957 190.037 166.957C199.9 166.957 209.488 164.288 217.969 159.317C235.299 149.19 245.993 130.687 245.993 110.618C246.269 89.9976 238.618 76.2811 235.576 70.2053C216.033 32.0016 173.812 10 127.996 10C63.4671 10 10.9218 61.7361 10 126.176C10.4609 92.5752 43.924 65.4184 83.7477 65.4184C86.9742 65.4184 105.411 65.6945 122.465 74.7161C137.491 82.633 145.419 92.1149 150.858 101.597C156.574 111.447 157.588 123.783 157.588 128.754C157.588 133.633 155.099 140.997 150.397 147.073Z" stroke="url(#paint2_linear)" stroke-width="16"/>
 <defs>
 <linearGradient id="paint0_linear" x1="183" y1="231" x2="103" y2="123" gradientUnits="userSpaceOnUse">
-<stop stop-color="#263CFF"/>
+<stop stop-color="#89b4fa"/>
 <stop offset="1" stop-color="#4BC0FE"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="144" y1="246" x2="129.999" y2="155.99" gradientUnits="userSpaceOnUse">
-<stop stop-color="#263CFF"/>
+<stop stop-color="#89b4fa"/>
 <stop offset="1" stop-color="#46B8F5"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="44.5616" y1="144.015" x2="162.434" y2="16.6967" gradientUnits="userSpaceOnUse">
-<stop stop-color="#36B9FF"/>
+<stop stop-color="#89b4fa"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 </defs>

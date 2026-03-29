@@ -14,9 +14,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
-     inkscape:deskcolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
+     inkscape:deskcolor="#bebebe"
      inkscape:pagecheckerboard="1"
      inkscape:zoom="53.0625"
      inkscape:cx="8"
@@ -36,15 +36,15 @@
        y2="3.833257"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop375-9"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#bebebe;stop-opacity:1;" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop376-7"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#bebebe;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient2"
@@ -54,15 +54,15 @@
        y2="3.8332567"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop353"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#bebebe;stop-opacity:1;" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop354"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#bebebe;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g

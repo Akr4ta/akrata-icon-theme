@@ -35,11 +35,11 @@
       <stop
          id="stop2106"
          offset="0"
-         style="stop-color:#006fff;stop-opacity:1" />
+         style="stop-color:#89b4fa;stop-opacity:1" />
       <stop
          id="stop2108"
          offset="1"
-         style="stop-color:#006fff;stop-opacity:0.18000001" />
+         style="stop-color:#89b4fa;stop-opacity:0.18000001" />
     </linearGradient>
     <linearGradient
        id="linearGradient2102"
@@ -47,11 +47,11 @@
       <stop
          id="stop2098"
          offset="0"
-         style="stop-color:#006fff;stop-opacity:1" />
+         style="stop-color:#89b4fa;stop-opacity:1" />
       <stop
          id="stop2100"
          offset="1"
-         style="stop-color:#006fff;stop-opacity:0.18039216" />
+         style="stop-color:#89b4fa;stop-opacity:0.18039216" />
     </linearGradient>
     <linearGradient
        id="linearGradient2086"
@@ -59,11 +59,11 @@
       <stop
          id="stop2082"
          offset="0"
-         style="stop-color:#006fff;stop-opacity:1" />
+         style="stop-color:#89b4fa;stop-opacity:1" />
       <stop
          id="stop2084"
          offset="1"
-         style="stop-color:#006fff;stop-opacity:0.18039216" />
+         style="stop-color:#89b4fa;stop-opacity:0.18039216" />
     </linearGradient>
     <linearGradient
        id="linearGradient2078"
@@ -71,11 +71,11 @@
       <stop
          id="stop2074"
          offset="0"
-         style="stop-color:#006fff;stop-opacity:1" />
+         style="stop-color:#89b4fa;stop-opacity:1" />
       <stop
          id="stop2076"
          offset="1"
-         style="stop-color:#006fff;stop-opacity:0.18039216" />
+         style="stop-color:#89b4fa;stop-opacity:0.18039216" />
     </linearGradient>
     <inkscape:path-effect
        effect="spiro"

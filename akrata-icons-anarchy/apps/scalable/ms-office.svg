@@ -7,19 +7,19 @@
 <stop stop-color="#FE3661"/>
 <stop offset="0.330956" stop-color="#C723C7"/>
 <stop offset="0.549719" stop-color="#AA35D6"/>
-<stop offset="1" stop-color="#1EA3FD"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_349_97" x1="36.141" y1="79.879" x2="78.8995" y2="32.8974" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FE3661"/>
 <stop offset="0.330956" stop-color="#C723C7"/>
 <stop offset="0.549719" stop-color="#AA35D6"/>
-<stop offset="1" stop-color="#1EA3FD"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint2_linear_349_97" x1="18.7281" y1="65.9919" x2="22.2882" y2="48.0231" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FE3661"/>
 <stop offset="0.330956" stop-color="#C723C7"/>
 <stop offset="0.549719" stop-color="#AA35D6"/>
-<stop offset="1" stop-color="#1EA3FD"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 </defs>
 </svg>

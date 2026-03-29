@@ -5,36 +5,36 @@
 <path d="M16.228 17.2412H13.9722C13.6607 17.2412 13.4082 17.4939 13.4082 17.8053C13.4082 18.1167 13.6607 18.3692 13.9722 18.3692H16.228C16.5395 18.3692 16.792 18.1167 16.792 17.8053C16.792 17.4939 16.5395 17.2412 16.228 17.2412Z" fill="url(#paint6_linear_451_1372)" stroke="url(#paint7_linear_451_1372)" stroke-width="0.6"/>
 <defs>
 <linearGradient id="paint0_linear_451_1372" x1="4.38477" y1="20.625" x2="23.3486" y2="14.329" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint1_linear_451_1372" x1="4.38477" y1="20.625" x2="23.3486" y2="14.329" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint2_linear_451_1372" x1="10.6377" y1="10.0366" x2="13.6891" y2="7.3742" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint3_linear_451_1372" x1="10.6378" y1="10.0366" x2="13.6891" y2="7.37425" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint4_linear_451_1372" x1="14.0215" y1="15.9801" x2="14.706" y2="14.1884" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint5_linear_451_1372" x1="14.0215" y1="15.9801" x2="14.7061" y2="14.1884" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint6_linear_451_1372" x1="14.0215" y1="18.236" x2="14.706" y2="16.4444" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint7_linear_451_1372" x1="14.0215" y1="18.236" x2="14.7062" y2="16.4443" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 </defs>
 </svg>

@@ -15,13 +15,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview284"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      showgrid="false"
      inkscape:zoom="12.546875"
      inkscape:cx="23.511831"
@@ -58,11 +58,11 @@
        inkscape:collect="always"
        id="linearGradient1797">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0"
          id="stop1793" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="1"
          id="stop1795" />
     </linearGradient>

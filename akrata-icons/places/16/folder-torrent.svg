@@ -14,13 +14,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview10"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      inkscape:zoom="13.265625"
      inkscape:cx="32"
      inkscape:cy="32"
@@ -55,11 +55,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24136071,0,0,0.24136071,0.27926934,0.27731612)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop4" />
     </linearGradient>
     <linearGradient
@@ -71,11 +71,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24136071,0,0,0.24136071,0.27655834,0.27731612)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop5" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop6" />
     </linearGradient>
     <linearGradient
@@ -87,11 +87,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24136071,0,0,0.24136071,0.27655834,0.27731612)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop8" />
     </linearGradient>
     <linearGradient
@@ -103,11 +103,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24136071,0,0,0.24136071,0.27655834,0.27731612)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop9" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop10" />
     </linearGradient>
   </defs>

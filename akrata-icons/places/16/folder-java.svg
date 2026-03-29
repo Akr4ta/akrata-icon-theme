@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -87,11 +87,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop14" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop16" />
     </linearGradient>
     <linearGradient
@@ -103,11 +103,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop19" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop21" />
     </linearGradient>
     <linearGradient
@@ -119,11 +119,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop24" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop26" />
     </linearGradient>
     <linearGradient
@@ -135,11 +135,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop29" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop31" />
     </linearGradient>
     <linearGradient
@@ -151,11 +151,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop34" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop36" />
     </linearGradient>
     <linearGradient
@@ -167,11 +167,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0455138,0,0,1.0223426,-7.6008048,-2.552391)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop39" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop41" />
     </linearGradient>
   </defs>

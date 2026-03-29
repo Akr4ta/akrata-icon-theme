@@ -14,13 +14,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview3293"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      showgrid="false"
      inkscape:zoom="18.774639"
      inkscape:cx="7.4834994"
@@ -60,11 +60,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.74999965,0,0,0.74999965,-2.2560796e-8,1.908614e-5)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3271" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3273" />
     </linearGradient>
     <linearGradient
@@ -75,11 +75,11 @@
        y2="21.307899"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3276" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3278" />
     </linearGradient>
     <linearGradient
@@ -90,11 +90,11 @@
        y2="27.852501"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3281" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3283" />
     </linearGradient>
     <clipPath
@@ -102,7 +102,7 @@
       <rect
          width="64"
          height="64"
-         fill="#ffffff"
+         fill="#bebebe"
          id="rect3286"
          x="0"
          y="0" />
@@ -115,11 +115,11 @@
        y2="4"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop6" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop8" />
     </linearGradient>
     <linearGradient
@@ -130,11 +130,11 @@
        y2="20.3325"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop11" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop13" />
     </linearGradient>
     <linearGradient
@@ -146,11 +146,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.38975091,0,0,0.38975091,11.578101,13.832533)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop6-5" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop8-3" />
     </linearGradient>
     <linearGradient
@@ -162,11 +162,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.38975091,0,0,0.38975091,11.578101,13.832533)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop11-6" />
       <stop
          offset="1"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop13-2" />
     </linearGradient>
   </defs>

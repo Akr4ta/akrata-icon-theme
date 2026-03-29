@@ -14,13 +14,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview12"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      inkscape:zoom="53.0625"
      inkscape:cx="8"
      inkscape:cy="8"
@@ -50,27 +50,27 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11825664,0,0,0.11825664,0.46798517,0.39006411)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop1" />
       <stop
          offset="0.1987"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop2" />
       <stop
          offset="0.37955"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop3" />
       <stop
          offset="0.53125"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop4" />
       <stop
          offset="0.84375"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop5" />
       <stop
          offset="0.9999"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop6" />
     </linearGradient>
     <linearGradient
@@ -82,27 +82,27 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11825664,0,0,0.11825664,0.46798517,0.39006411)">
       <stop
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop7" />
       <stop
          offset="0.1987"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop8" />
       <stop
          offset="0.37955"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop9" />
       <stop
          offset="0.53125"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop10" />
       <stop
          offset="0.84375"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop11" />
       <stop
          offset="0.9999"
-         stop-color="#ffffff"
+         stop-color="#bebebe"
          id="stop12" />
     </linearGradient>
   </defs>

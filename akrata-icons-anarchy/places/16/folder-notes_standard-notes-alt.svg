@@ -3,12 +3,12 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7526 7.7171H6.973C6.43537 7.7171 6.00002 7.3321 6.00002 6.8591C6.00002 6.3861 6.43537 6 6.973 6H16.7526C17.289 6 17.7256 6.3861 17.7256 6.8591C17.7256 7.3321 17.289 7.7171 16.7526 7.7171ZM16.7526 13.2171H6.97297C6.43534 13.2171 6 12.8321 6 12.3591C6 11.8861 6.43534 11.5 6.97297 11.5H16.7526C17.289 11.5 17.7256 11.8861 17.7256 12.3591C17.7256 12.8321 17.289 13.2171 16.7526 13.2171ZM7.34722 18.441H17.1268C17.6245 18.397 18 18.0219 18 17.583C18 17.132 17.6245 16.758 17.1268 16.714H7.34722C6.973 16.681 6.61125 16.835 6.41166 17.121C6.21208 17.396 6.21208 17.759 6.41166 18.045C6.61125 18.32 6.973 18.485 7.34722 18.441Z" fill="url(#paint1_linear_1005_495)"/>
 <defs>
 <linearGradient id="paint0_linear_1005_495" x1="12" y1="22" x2="12" y2="2" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1005_495" x1="12" y1="18.4481" x2="12" y2="6" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 </defs>
 </svg>

@@ -8,27 +8,27 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear" x1="43.3578" y1="48.3663" x2="43.3578" y2="0" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="26.1491" y1="64" x2="26.1491" y2="8.96069" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="32.0617" y1="37.0938" x2="32.0617" y2="31.9739" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="32.0599" y1="45.1425" x2="32.0599" y2="40.0226" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="26.7938" y1="53.1911" x2="26.7938" y2="48.0393" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ffffff"/>
-<stop offset="1" stop-color="#ffffff"/>
+<stop stop-color="#bebebe"/>
+<stop offset="1" stop-color="#bebebe"/>
 </linearGradient>
 <clipPath id="clip0">
-<rect width="64" height="64" fill="#ffffff"/>
+<rect width="64" height="64" fill=""/>
 </clipPath>
 </defs>
 </svg>

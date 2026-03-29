@@ -5,8 +5,8 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1 15.8926V11.7118C1 7.83677 5.38064 5.62356 8.452 7.94913L11.35 10.144V10.1459L22.8047 18.6589C23.5129 19.1853 24.4824 19.1853 25.1907 18.6589L36.6477 10.1442V23.7317L25.1909 32.2493C24.4826 32.776 23.5127 32.776 22.8044 32.2493L11.3477 23.7317V23.7299L1 15.8926Z" fill="url(#paint3_linear_644_42)"/>
 <defs>
 <linearGradient id="paint0_linear_644_42" x1="6.175" y1="15.8926" x2="6.175" y2="41.4999" gradientUnits="userSpaceOnUse">
-<stop stop-color="#189CFC"/>
-<stop offset="1" stop-color="#1E78FF"/>
+<stop stop-color="#89b4fa"/>
+<stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_644_42" x1="41.8273" y1="15.8926" x2="41.8273" y2="41.4999" gradientUnits="userSpaceOnUse">
 <stop stop-color="#a6e3a1"/>

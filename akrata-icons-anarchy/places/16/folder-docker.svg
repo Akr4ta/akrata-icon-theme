@@ -23,13 +23,13 @@
      id="defs3" />
   <sodipodi:namedview
      id="namedview3"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      inkscape:document-units="pt"
      inkscape:zoom="13.265625"
      inkscape:cx="31.962309"
@@ -51,17 +51,17 @@
     <stop
        offset="0%"
        stop-opacity="1"
-       style="stop-color:#ffffff"
+       style="stop-color:#bebebe"
        id="stop1" />
     <stop
        offset="51.73913043478261%"
        stop-opacity="1"
-       style="stop-color:#ffffff"
+       style="stop-color:#bebebe"
        id="stop2" />
     <stop
        offset="98.26086956521739%"
        stop-opacity="1"
-       style="stop-color:#ffffff"
+       style="stop-color:#bebebe"
        id="stop3" />
   </linearGradient>
   <path

@@ -8,11 +8,11 @@
 <stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint1_linear_625_119" x1="54.0567" y1="81.9953" x2="54.0567" y2="38.1607" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0028FF"/>
+<stop stop-color="#89b4fa"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint2_linear_625_119" x1="72.5708" y1="86.3785" x2="72.5708" y2="51.3109" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0028FF"/>
+<stop stop-color="#89b4fa"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 </defs>

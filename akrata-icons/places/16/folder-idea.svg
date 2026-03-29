@@ -28,15 +28,15 @@
        inkscape:collect="always"
        id="linearGradient7816">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0"
          id="stop7812" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0.5"
          id="stop7820" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="1"
          id="stop7814" />
     </linearGradient>
@@ -53,15 +53,15 @@
        inkscape:collect="always"
        id="linearGradient8215">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0"
          id="stop8211" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0.5"
          id="stop8219" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="1"
          id="stop8213" />
     </linearGradient>
@@ -78,11 +78,11 @@
        inkscape:collect="always"
        id="linearGradient8237">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="0"
          id="stop8233" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#bebebe;stop-opacity:1;"
          offset="1"
          id="stop8235" />
     </linearGradient>
@@ -189,13 +189,13 @@
   </defs>
   <sodipodi:namedview
      id="namedview32"
-     pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     pagecolor="#bebebe"
+     bordercolor="#bebebe"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#ffffff"
+     inkscape:deskcolor="#bebebe"
      showgrid="false"
      inkscape:zoom="32.503385"
      inkscape:cx="10.168172"
@@ -269,7 +269,7 @@
         <path
            opacity="0.14"
            d="m 84.0501,173.92 c -3.03,-1.43 -3.12,-5.17 -2.4,-7.99 0.29,1.92 0.3499,4.18 1.9499,5.55 1.9501,1.93 4.9201,1.42 7.4101,1.54 5.3,-0.18 10.6299,0.28 15.9199,-0.24 3.2,-0.54 4.37,-3.97 4.42,-6.82 0.37,2.19 0.84,4.75 -0.77,6.6 -2.57,3.02 -6.99,2.63 -10.57,2.83 -5.3199,-0.17 -10.9399,0.62 -15.9599,-1.47 z"
-           fill="#ffffff"
+           fill="#bebebe"
            id="path28"
            style="stroke-width:1.00109;stroke-dasharray:none" />
       </g>

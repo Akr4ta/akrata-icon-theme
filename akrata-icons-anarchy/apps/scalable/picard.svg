@@ -6,8 +6,8 @@
 <stop offset="0.1987" stop-color="#FF49AB"/>
 <stop offset="0.37955" stop-color="#BA49FF"/>
 <stop offset="0.49923" stop-color="#5849FF"/>
-<stop offset="0.765566" stop-color="#1EFFD6"/>
-<stop offset="1" stop-color="#00FFFF"/>
+<stop offset="0.765566" stop-color="#89dceb"/>
+<stop offset="1" stop-color="#89dceb"/>
 </linearGradient>
 </defs>
 </svg>

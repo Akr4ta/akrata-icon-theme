@@ -24,7 +24,7 @@
          offset="0.50631177"
          id="stop6" />
       <stop
-         style="stop-color:#38f9d7;stop-opacity:1;"
+         style="stop-color:#a6e3a1;stop-opacity:1;"
          offset="1"
          id="stop5" />
     </linearGradient>
@@ -51,7 +51,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Highlight {
-  color:#3daee9;
+  color:#89b4fa;
 }
 .ColorScheme-Text {
   color:#232629;

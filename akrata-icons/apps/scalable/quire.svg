@@ -23,21 +23,21 @@
       <stop
          id="stop869"
          offset="0"
-         style="stop-color:#0047ff;stop-opacity:1" />
+         style="stop-color:#89b4fa;stop-opacity:1" />
       <stop
          id="stop871"
          offset="1"
-         style="stop-color:#00ff7b;stop-opacity:1" />
+         style="stop-color:#a6e3a1;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1499">
       <stop
-         style="stop-color:#0e65ed;stop-opacity:1"
+         style="stop-color:#89b4fa;stop-opacity:1"
          offset="0"
          id="stop1495" />
       <stop
-         style="stop-color:#23e27f;stop-opacity:0.65882355"
+         style="stop-color:#a6e3a1;stop-opacity:0.65882355"
          offset="1"
          id="stop1497" />
     </linearGradient>

@@ -4,11 +4,11 @@
 <defs>
 <linearGradient id="paint0_linear_616_309" x1="64" y1="10" x2="64" y2="118.785" gradientUnits="userSpaceOnUse">
 <stop offset="0.119792" stop-color="#7730F6"/>
-<stop offset="0.84375" stop-color="#39D9FD"/>
+<stop offset="0.84375" stop-color="#89dceb"/>
 </linearGradient>
 <linearGradient id="paint1_linear_616_309" x1="60.1321" y1="94.335" x2="60.1321" y2="32.126" gradientUnits="userSpaceOnUse">
 <stop offset="0.119792" stop-color="#7730F6"/>
-<stop offset="0.84375" stop-color="#39D9FD"/>
+<stop offset="0.84375" stop-color="#89dceb"/>
 </linearGradient>
 </defs>
 </svg>
