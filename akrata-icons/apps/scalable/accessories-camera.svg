@@ -5,28 +5,28 @@
 <path d="M101.375 52.8125C103.187 52.8125 104.656 51.3434 104.656 49.5312C104.656 47.7191 103.187 46.25 101.375 46.25C99.5627 46.25 98.0938 47.7191 98.0938 49.5312C98.0938 51.3434 99.5627 52.8125 101.375 52.8125Z" fill="url(#paint6_linear_640_6)" stroke="url(#paint7_linear_640_6)" stroke-width="6"/>
 <defs>
 <linearGradient id="paint0_linear_640_6" x1="24.86" y1="89.2031" x2="79.0572" y2="51.1202" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint1_linear_640_6" x1="24.86" y1="89.2031" x2="79.0572" y2="51.1202" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint2_linear_640_6" x1="43.3597" y1="83.4609" x2="75.4049" y2="64.9897" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint3_linear_640_6" x1="43.3597" y1="83.4609" x2="75.4049" y2="64.9897" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint4_linear_640_6" x1="52.5331" y1="76.2422" x2="70.336" y2="65.9804" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint5_linear_640_6" x1="52.5331" y1="76.2422" x2="70.336" y2="65.9804" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F502A3"/>
-<stop offset="1" stop-color="#FFBB37"/>
+<stop stop-color="#f38ba8"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint6_linear_640_6" x1="104.434" y1="46.4376" x2="101.874" y2="52.8647" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f38ba8"/>

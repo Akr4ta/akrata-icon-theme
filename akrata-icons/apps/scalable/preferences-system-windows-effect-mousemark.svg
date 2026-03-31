@@ -17,36 +17,36 @@
 <stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <linearGradient id="paint2_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint3_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint4_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint5_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint6_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint7_linear_618_264" x1="72.3454" y1="70.4911" x2="72.3454" y2="37.1091" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBEF9"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#FFF1FF"/>
 </linearGradient>
 <linearGradient id="paint8_linear_618_264" x1="88.3047" y1="69.0565" x2="88.3047" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#FFF500"/>
+<stop offset="1" stop-color="#f9e2af"/>
 </linearGradient>
 <linearGradient id="paint9_linear_618_264" x1="88.3047" y1="69.0565" x2="88.3047" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fab387"/>
-<stop offset="1" stop-color="#FFF500"/>
+<stop offset="1" stop-color="#f9e2af"/>
 </linearGradient>
 </defs>
 </svg>

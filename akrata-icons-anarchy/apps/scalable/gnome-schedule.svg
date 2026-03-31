@@ -5,16 +5,16 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_1005_415" x1="7.1867" y1="-3.25" x2="27.6136" y2="40.0094" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFCA64"/>
-<stop offset="1" stop-color="#C70000"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1005_415" x1="15.041" y1="6.27051" x2="27.8431" y2="22.8192" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFCA64"/>
-<stop offset="1" stop-color="#C70000"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint2_linear_1005_415" x1="15.041" y1="6.27051" x2="27.8431" y2="22.8192" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFCA64"/>
-<stop offset="1" stop-color="#C70000"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <clipPath id="clip0_1005_415">
 <rect width="32" height="32" fill="white"/>

@@ -9,17 +9,17 @@
 <stop offset="1" stop-color="#a6e3a1"/>
 </linearGradient>
 <linearGradient id="paint1_linear_641_131" x1="35.334" y1="18.002" x2="57.9473" y2="18.002" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFE031"/>
-<stop offset="1" stop-color="#FA0075"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint2_linear_641_131" x1="9.99385" y1="16.6787" x2="39.3325" y2="16.6787" gradientUnits="userSpaceOnUse">
 <stop stop-color="#89b4fa"/>
 <stop offset="0.517391" stop-color="#89b4fa"/>
-<stop offset="0.982609" stop-color="#A5FECB"/>
+<stop offset="0.982609" stop-color="#89dceb"/>
 </linearGradient>
 <linearGradient id="paint3_linear_641_131" x1="6.00354" y1="44.6666" x2="40.6662" y2="44.6666" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F7F206"/>
-<stop offset="0.978261" stop-color="#FFBB24"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="0.978261" stop-color="#fab387"/>
 </linearGradient>
 </defs>
 </svg>

@@ -4,20 +4,20 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M96.1316 32.6921L85.0961 43.7453L93.7196 52.3687C94.3204 51.9446 94.877 51.4675 95.4071 50.955C97.9517 48.4104 99.3477 45.0264 99.3477 41.4304C99.3477 38.1966 98.2168 35.1396 96.1316 32.6921ZM70.2438 54.7543L36.6514 88.3555L40.5125 92.2166L76.084 60.9744C76.9764 60.1881 77.4888 59.0925 77.5242 57.9085C77.5595 56.7157 77.1177 55.5936 76.2784 54.7454C74.6173 53.0932 71.9137 53.0932 70.2438 54.7543Z" fill="url(#paint3_linear_601_5)"/>
 <defs>
 <linearGradient id="paint0_linear_601_5" x1="6" y1="6" x2="122" y2="122" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FBFF23"/>
-<stop offset="1" stop-color="#FF2F2F"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint1_linear_601_5" x1="6" y1="6" x2="122" y2="122" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FBFF23"/>
-<stop offset="1" stop-color="#FF2F2F"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint2_linear_601_5" x1="28" y1="28" x2="99.7407" y2="93.8952" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FBFF23"/>
-<stop offset="1" stop-color="#FF2F2F"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint3_linear_601_5" x1="-1.91434" y1="32.6921" x2="101.482" y2="133.933" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FBFF23"/>
-<stop offset="1" stop-color="#FF2F2F"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 </defs>
 </svg>

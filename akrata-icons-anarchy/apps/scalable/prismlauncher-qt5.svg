@@ -3,9 +3,9 @@
 <path d="M11.309 13.0347L15.909 15.6261C16.5756 16.0016 17.3998 15.5199 17.3998 14.7548V9.69217C17.3998 9.33067 17.2047 8.99732 16.8895 8.82029L12.2895 6.23662C11.6229 5.86222 10.7998 6.34396 10.7998 7.10851V12.1635C10.7998 12.5245 10.9944 12.8575 11.309 13.0347Z" fill="url(#paint1_linear_928_44)"/>
 <defs>
 <linearGradient id="paint0_linear_928_44" x1="11.9" y1="1" x2="9.35596" y2="22.7018" gradientUnits="userSpaceOnUse">
-<stop stop-color="#A6FF70"/>
-<stop offset="0.752309" stop-color="#FF913B"/>
-<stop offset="1" stop-color="#FE3E02"/>
+<stop stop-color="#a6e3a1"/>
+<stop offset="0.752309" stop-color="#fab387"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint1_linear_928_44" x1="14.0998" y1="16.4659" x2="14.0998" y2="5.3999" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f9e2af"/>

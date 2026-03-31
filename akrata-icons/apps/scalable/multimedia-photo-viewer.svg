@@ -46,13 +46,13 @@
        y2="12"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#FD0079"
+         stop-color="#f38ba8"
          id="stop1"
          offset="0"
          style="stop-color:#89dceb;stop-opacity:1;" />
       <stop
          offset="1"
-         stop-color="#FFF733"
+         stop-color="#f9e2af"
          id="stop2"
          style="stop-color:#89dceb;stop-opacity:1;" />
     </linearGradient>

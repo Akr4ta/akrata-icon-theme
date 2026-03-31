@@ -33,11 +33,11 @@
        inkscape:collect="always"
        id="linearGradient984">
       <stop
-         style="stop-color:#84f7b2;stop-opacity:1;"
+         style="stop-color:#a6e3a1;stop-opacity:1;"
          offset="0"
          id="stop980" />
       <stop
-         style="stop-color:#8cd9e7;stop-opacity:1"
+         style="stop-color:#89dceb;stop-opacity:1"
          offset="1"
          id="stop982" />
     </linearGradient>
@@ -47,11 +47,11 @@
       <stop
          id="stop944"
          offset="0"
-         style="stop-color:#84f7b2;stop-opacity:1;" />
+         style="stop-color:#a6e3a1;stop-opacity:1;" />
       <stop
          id="stop946"
          offset="1"
-         style="stop-color:#8ed3f1;stop-opacity:1" />
+         style="stop-color:#89dceb;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.98325652,0,0,0.98335004,-57.534723,-22.972296)"

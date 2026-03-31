@@ -42,14 +42,14 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.75,0,0,0.75,26.465789,79.869284)">
       <stop
-         stop-color="#FF823B"
+         stop-color="#fab387"
          id="stop1027"
-         style="stop-color:#ff1755;stop-opacity:1" />
+         style="stop-color:#f38ba8;stop-opacity:1" />
       <stop
          offset="0.93203861"
-         stop-color="#f9e2af"
+         stop-color="#f38ba8"
          id="stop1029"
-         style="stop-color:#ff7c3c;stop-opacity:1" />
+         style="stop-color:#fab387;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -66,7 +66,7 @@
        id="clipPath925">
       <path
          id="path927"
-         style="opacity:0.512051;fill:#dd955d;stroke-width:0.245843"
+         style="opacity:0.512051;fill:#fab387;stroke-width:0.245843"
          d="M 46.763384,69.064991 C 46.763384,79.308998 34.244002,87.548407 24,87.548407 13.755998,87.548407 5.4515934,79.244002 5.4515934,69 c 0,-3.060123 0.7564413,-5.938386 2.0576151,-8.489103 C 7.6371218,60.260147 6.3892731,55.603438 6.5275131,55.359158 8.2549238,52.306694 10.13171,56.167357 11.540078,55.259592 15.277089,52.850899 19.203763,50.451593 24,50.451593 c 10.244002,0 22.763384,8.369396 22.763384,18.613398 z"
          sodipodi:nodetypes="ssssssss" />
     </clipPath>
@@ -79,11 +79,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.75,0,0,0.75,26.465789,79.869284)">
       <stop
-         stop-color="#FF823B"
+         stop-color="#fab387"
          id="stop6" />
       <stop
          offset="0.986957"
-         stop-color="#f9e2af"
+         stop-color="#f38ba8"
          id="stop8" />
     </linearGradient>
   </defs>

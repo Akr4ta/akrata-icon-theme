@@ -3,11 +3,11 @@
 <path d="M80 176H64V192H122.667V176H106.667V160H117.333C133.333 160 133.333 192 149.333 192H176C192 192 192 160 192 160H173.333C173.333 160 176 176 160 176C152 176 144 160 144 160H149.333C160 160 170.667 149.333 170.667 136C170.667 122.667 160 112 149.333 112H64V128H80M138.667 128C144 128 149.333 128 149.333 136C149.333 144 144 144 138.667 144H106.667V128" fill="url(#paint1_linear_668_49)"/>
 <defs>
 <linearGradient id="paint0_linear_668_49" x1="127.5" y1="2" x2="127.5" y2="253" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8637FB"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 <linearGradient id="paint1_linear_668_49" x1="128" y1="112" x2="128" y2="192" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8637FB"/>
+<stop stop-color="#a78bfa"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 </defs>

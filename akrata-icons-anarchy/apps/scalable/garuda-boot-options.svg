@@ -46,12 +46,12 @@
          stop-color="#a6e3a1"
          offset="0"
          id="stop2"
-         style="stop-color:#e100c2;stop-opacity:1" />
+         style="stop-color:#a78bfa;stop-opacity:1" />
       <stop
-         stop-color="#cfbb49"
+         stop-color="#f9e2af"
          offset="1"
          id="stop4"
-         style="stop-color:#ffdc19;stop-opacity:1" />
+         style="stop-color:#f9e2af;stop-opacity:1" />
     </linearGradient>
   </defs>
   <metadata

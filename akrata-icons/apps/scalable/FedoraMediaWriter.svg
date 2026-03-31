@@ -3,7 +3,7 @@
 <path d="M41.25 109H24C20.6863 109 18 106.314 18 103V20C18 16.6863 20.6863 14 24 14H105C108.314 14 111 16.6863 111 20V103C111 106.314 108.314 109 105 109H87.75" stroke="url(#paint0_linear_674_159)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 <defs>
 <linearGradient id="paint0_linear_674_159" x1="64.5" y1="14" x2="64.5" y2="109" gradientUnits="userSpaceOnUse">
-<stop stop-color="#44BCFF"/>
+<stop stop-color="#89dceb"/>
 <stop offset="1" stop-color="#89b4fa"/>
 </linearGradient>
 </defs>

@@ -66,7 +66,7 @@
       <stop
          offset="0.68305308"
          stop-opacity="1"
-         style="stop-color:#ffe031;stop-opacity:1"
+         style="stop-color:#f9e2af;stop-opacity:1"
          id="stop1699" />
     </linearGradient>
     <linearGradient
@@ -85,7 +85,7 @@
       <stop
          offset="0.40888655"
          stop-opacity="1"
-         style="stop-color:#ffe031;stop-opacity:1"
+         style="stop-color:#f9e2af;stop-opacity:1"
          id="stop1504" />
     </linearGradient>
     <inkscape:path-effect
@@ -221,7 +221,7 @@
        id="clipPath2305">
       <path
          id="path2307"
-         style="fill:#ffe031;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         style="fill:#f9e2af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 13.34375,18.34375 11.3125,11.3125 A 7.9999997,7.9999997 0 0 0 27,24 7.9999997,7.9999997 0 0 0 19,16 7.9999997,7.9999997 0 0 0 13.34375,18.34375 Z" />
     </clipPath>
     <clipPath
@@ -229,7 +229,7 @@
        id="clipPath2309">
       <path
          id="path2311"
-         style="fill:#ffe031;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         style="fill:#f9e2af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 13.34375,18.34375 11.3125,11.3125 A 7.9999997,7.9999997 0 0 0 27,24 7.9999997,7.9999997 0 0 0 19,16 7.9999997,7.9999997 0 0 0 13.34375,18.34375 Z" />
     </clipPath>
     <linearGradient

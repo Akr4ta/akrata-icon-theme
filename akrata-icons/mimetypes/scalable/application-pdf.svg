@@ -6,14 +6,14 @@
 <stop stop-color="#D80081"/>
 <stop offset="0.213542" stop-color="#FF003D"/>
 <stop offset="0.53125" stop-color="#DF0000"/>
-<stop offset="0.8125" stop-color="#FF0000"/>
+<stop offset="0.8125" stop-color="#f38ba8"/>
 <stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 <linearGradient id="paint1_linear_667_149" x1="214.347" y1="4.38273" x2="-12.5221" y2="183.026" gradientUnits="userSpaceOnUse">
 <stop stop-color="#D80081"/>
 <stop offset="0.213542" stop-color="#FF003D"/>
 <stop offset="0.53125" stop-color="#DF0000"/>
-<stop offset="0.8125" stop-color="#FF0000"/>
+<stop offset="0.8125" stop-color="#f38ba8"/>
 <stop offset="1" stop-color="#f38ba8"/>
 </linearGradient>
 </defs>

@@ -22,13 +22,13 @@
      id="defs2"><linearGradient
        inkscape:collect="always"
        id="linearGradient1760"><stop
-         style="stop-color:#ff5c86;stop-opacity:1;"
+         style="stop-color:#f38ba8;stop-opacity:1;"
          offset="0"
          id="stop1756" /><stop
          style="stop-color:#89b4fa;stop-opacity:1;"
          offset="0.5"
          id="stop3944" /><stop
-         style="stop-color:#f37c42;stop-opacity:1;"
+         style="stop-color:#fab387;stop-opacity:1;"
          offset="1"
          id="stop1758" /></linearGradient><linearGradient
        inkscape:collect="always"
@@ -42,7 +42,7 @@
        gradientTransform="matrix(-1,0,0,1,200,0)" /></defs><sodipodi:namedview
      id="base"
      pagecolor="#0a0a0a"
-     bordercolor="#701717"
+     bordercolor="#f38ba8"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"

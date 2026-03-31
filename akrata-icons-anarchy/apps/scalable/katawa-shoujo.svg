@@ -3,13 +3,13 @@
 <svg width="128mm" height="128mm" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient1140">
-   <stop stop-color="#4854ff" offset="0"/>
-   <stop stop-color="#87e2ff" offset="1"/>
+   <stop stop-color="#89b4fa" offset="0"/>
+   <stop stop-color="#89dceb" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1052" x1="64.824" x2="64.05" y1="123.31" y2="13.584" gradientTransform="matrix(1.0562 0 0 1.0857 -3.5977 -10.099)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ff29e5" offset="0"/>
-   <stop stop-color="#ff689f" offset=".61987"/>
-   <stop stop-color="#ffd0b8" offset="1"/>
+   <stop stop-color="#a78bfa" offset="0"/>
+   <stop stop-color="#f38ba8" offset=".61987"/>
+   <stop stop-color="#fab387" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1062" x1="82.6" x2="76.792" y1="98.777" y2="59" gradientTransform="matrix(1.0562 0 0 1.0857 -3.5977 -10.099)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1140"/>
   <linearGradient id="linearGradient1070" x1="64.781" x2="104.56" y1="77.602" y2="77.602" gradientTransform="matrix(1.0562 0 0 1.0857 -3.5977 -10.099)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1140"/>
@@ -20,6 +20,6 @@
    <path d="m98.839 91.718s-8.8431-11.487-13.466-16.689c-4.9545-5.5747-15.267-15.64-15.267-15.64" stroke="url(#linearGradient1062)" stroke-miterlimit="6.6"/>
    <path d="m70.106 88.925s11.175-9.0903 16.235-13.843c5.4231-5.093 15.215-15.694 15.215-15.694" stroke="url(#linearGradient1070)" stroke-miterlimit="6.6"/>
   </g>
-  <path d="m83.432 77.713s0.57032-0.43806 2.909-2.6309 2.647-2.5689 2.647-2.5689" stroke="#ffd5b7" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8.567"/>
+  <path d="m83.432 77.713s0.57032-0.43806 2.909-2.6309 2.647-2.5689 2.647-2.5689" stroke="#fab387" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8.567"/>
  </g>
 </svg>

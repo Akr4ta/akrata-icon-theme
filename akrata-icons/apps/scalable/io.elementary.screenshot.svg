@@ -5,8 +5,8 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear" x1="58.8289" y1="32.5073" x2="-4.67891e-07" y2="32.5073" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFCD1A"/>
-<stop offset="1" stop-color="#FD9C0C"/>
+<stop stop-color="#f9e2af"/>
+<stop offset="1" stop-color="#fab387"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="46.6786" y1="63.9999" x2="46.6786" y2="29.2905" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f9e2af"/>

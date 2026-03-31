@@ -4,8 +4,8 @@
 <path d="M3.91618 9.5801H5.19892L6.59827 6.08142L7.53116 13.0782L8.46406 7.71399L9.39696 10.7459L10.7963 9.5801H12.079" stroke="url(#paint2_linear)" stroke-linecap="round" stroke-linejoin="round"/>
 <defs>
 <linearGradient id="paint0_linear" x1="8.01662" y1="13.6463" x2="12.2573" y2="4.02871" gradientUnits="userSpaceOnUse">
-<stop stop-color="#979797"/>
-<stop offset="1" stop-color="#4D4D4D"/>
+<stop stop-color="#a6e3a1"/>
+<stop offset="1" stop-color="#a6e3a1"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="4.975" y1="13.6481" x2="4.975" y2="2.00061" gradientUnits="userSpaceOnUse">
 <stop stop-color="#a6e3a1"/>

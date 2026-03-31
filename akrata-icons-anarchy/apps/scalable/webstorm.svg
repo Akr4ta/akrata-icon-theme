@@ -21,10 +21,10 @@
 </linearGradient>
 <linearGradient id="paint3_linear" x1="32" y1="63" x2="62" y2="30" gradientUnits="userSpaceOnUse">
 <stop stop-color="#a6e3a1"/>
-<stop offset="0.140625" stop-color="#7EAA4B"/>
-<stop offset="0.276042" stop-color="#FFB509"/>
-<stop offset="0.677083" stop-color="#FFEE31"/>
-<stop offset="0.807292" stop-color="#C7F350"/>
+<stop offset="0.140625" stop-color="#a6e3a1"/>
+<stop offset="0.276042" stop-color="#fab387"/>
+<stop offset="0.677083" stop-color="#f9e2af"/>
+<stop offset="0.807292" stop-color="#a6e3a1"/>
 <stop offset="1" stop-color="#a6e3a1"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="-nan" y1="-nan" x2="-nan" y2="-nan" gradientUnits="userSpaceOnUse">

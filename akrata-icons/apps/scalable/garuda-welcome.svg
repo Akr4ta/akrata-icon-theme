@@ -45,12 +45,12 @@
        y2="291.39"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#558b6c"
+         stop-color="#a6e3a1"
          offset="0"
          id="stop2"
-         style="stop-color:#56f79b;stop-opacity:1" />
+         style="stop-color:#a6e3a1;stop-opacity:1" />
       <stop
-         stop-color="#b1326c"
+         stop-color="#f38ba8"
          stop-opacity=".61176"
          offset="1"
          id="stop4"
@@ -105,11 +105,11 @@
        inkscape:collect="always"
        id="linearGradient3813">
       <stop
-         style="stop-color:#ff7f00;stop-opacity:1;"
+         style="stop-color:#fab387;stop-opacity:1;"
          offset="0"
          id="stop3809" />
       <stop
-         style="stop-color:#58009f;stop-opacity:1;"
+         style="stop-color:#a78bfa;stop-opacity:1;"
          offset="1"
          id="stop3811" />
     </linearGradient>
