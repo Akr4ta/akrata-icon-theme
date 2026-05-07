@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="com.system76.CosmicLauncher.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4789654"
+     inkscape:cx="741.31235"
+     inkscape:cy="367.63804"
+     inkscape:window-width="1360"
+     inkscape:window-height="669"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="#000000"
+     d="M 218.383,21.05 203.92,68.054 C 113.694,89.428 46,165.01 46,256 c 0,14.283 1.684,28.18 4.846,41.555 l -44.376,9.965 7.54,35.2 48.656,-10.884 c 10.105,21.922 24.455,41.74 42.057,58.613 l -25.926,84.257 34.406,10.586 21.793,-70.824 C 169.324,436.875 211.146,450 256,450 c 58.938,0 112.636,-22.662 150.98,-59.27 l 41.756,66.81 30.528,-19.08 -47.616,-76.185 C 453.324,331.823 466,295.355 466,256 c 0,-3.533 -0.107,-7.04 -0.31,-10.525 l 39.84,-8.995 -7.54,-35.2 -37.978,8.595 C 437.487,124.62 353.984,62 256,62 c -3.968,0 -7.91,0.112 -11.826,0.314 l -25.79,-41.263 z m 48.28,77.25 c 77.367,4.207 140.087,53.86 158.107,119.128 L 350.998,233.236 266.664,98.3 Z m -37.046,8.647 83.944,134.31 -134.11,28.74 50.167,-163.05 z m -38.37,2.295 -52.12,169.395 -53.072,11.373 C 83.361528,278.87387 82.000326,267.45723 82,256 82,189.887 126.82,132.63 191.246,109.242 Z m 238.712,143.89 c 0.018,0.954 0.04,1.91 0.04,2.868 0,26.092 -6.99,50.8 -19.4,72.598 l -39.31,-62.895 58.67,-12.572 z m -96.106,20.593 53.644,85.832 C 355.762,392.824 308.884,414 256,414 214.048,414 175.88,400.667 146.047,378.55 l 21.273,-69.14 166.534,-35.685 z m -206.855,44.325 -10.127,32.917 c -6.922,-8.368 -12.95,-17.373 -17.956,-26.9 l 28.084,-6.016 z"
+     id="path1"
+     style="fill:#e4eaff;fill-opacity:1;stroke:#e4eaff;stroke-opacity:1;stroke-width:6.24768;stroke-dasharray:none"
+     sodipodi:nodetypes="ccsccccccccsccccsccccscccccccccccccccccccsscccsccsccccccccc" />
+</svg>
