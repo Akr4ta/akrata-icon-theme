@@ -11,6 +11,12 @@ Icon theme that combines BeautyLine, Sweet, Papirus, Adwaita, and Candy, harmoni
 There are two versions: akrata-icons (the default) and akrata-icons-anarchy. The only difference is that in the anarchy version, the menu/view-grid icon is replaced by the anarchist "A" symbol.
 
 # Install
+The icon theme is available in the AUR, so you can run the command below if you are using Arch Linux or an Arch-based system:
+
+`yay -S akrata-icon-theme`
+
+If you are using a different system, follow the instructions below.
+
 Download the .zip file.
 
 Extract the archive and move either the akrata-icons or akrata-icons-anarchy folder to icons directory ~/.local/share/icons/ (Create this directory if it doesn't exist).
