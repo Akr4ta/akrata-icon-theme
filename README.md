@@ -27,6 +27,7 @@ Ensure papirus-icon-theme and adwaita-icon-theme is installed for correct panel 
 Change via distribution specific tweak-tool.
 
 # Don’t like the folder colors? Try this:
+Note: This method only works if you install the theme manually by placing the theme file in ~/.local/share/icons/; it does not work when installing via AUR.
 
 Extract the zip file in your Downloads folder.
 
