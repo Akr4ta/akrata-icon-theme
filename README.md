@@ -3,7 +3,7 @@
 
 Icon theme that combines BeautyLine, Sweet, Papirus, Adwaita, and Candy, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
-* Papirus and Adwaita for panel and file manager icons,
+* Adwaita for panel and file manager icons,
 * Candy to replace some app icons,
 * Sweet for the cursor and folder themes,
 * Catppuccin Mocha as the color reference.
@@ -48,7 +48,7 @@ Move either the akrata-icons or akrata-icons-anarchy folder to icons directory ~
 # Warning
 This icon theme has only been tested on GNOME and COSMIC desktop environments. Other environments may display colors inconsistently.
 
-The Akrata Theme uses icons from the Papirus and Adwaita icon themes. Not installing them may result in missing or incorrect device icons.
+The Akrata Theme uses icons from the Adwaita icon theme. Not installing this theme may result in missing or incorrect device icons.
 
 This theme was designed to be used in dark themes.
 
