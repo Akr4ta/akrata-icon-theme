@@ -11,6 +11,12 @@ Icon theme that combines BeautyLine, Sweet, Tela and Candy, harmonized with the 
 There are three versions: akrata (the standard), akrata-anarchy, and akrata-anarchy-op2. The only differences are: in the akrata-anarchy version, the menu/app grid icon is replaced by the anarchist "A" symbol, and in akrata-anarchy-op2, the cosmic launcher icon is replaced by the anarchist "A" symbol.
 
 # Install
+The icon theme is available in the AUR, so you can run the command below if you are using Arch Linux or an Arch-based system:
+
+`yay -S akrata-icon-theme`
+
+If you are using a different system, follow the instructions below.
+
 Download the .zip file.
 
 Extract the archive and move either the akrata, akrata-anarchy or akrata-anarchy-op2 folder to icons directory ~/.local/share/icons/ (Create this directory if it doesn't exist).
@@ -19,6 +25,7 @@ Extract the archive and move either the akrata, akrata-anarchy or akrata-anarchy
 Change via distribution specific tweak-tool.
 
 # Don’t like the folder colors? Try this:
+Note: This method only works if you install the theme manually by placing the theme file in ~/.local/share/icons/; it does not work when installing via AUR.
 
 Extract the zip file in your Downloads folder.
 
