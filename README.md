@@ -1,5 +1,12 @@
 # Akrata-icons
-<img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/ex_image.png" alt="e.g image">
+### Standard version
+<img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/image_akrata.png" alt="e.g image">
+
+### Anarchy version
+<img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/image_akrata-anarchy.png" alt="e.g image">
+
+### Second Anarchy version
+<img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/image_akrata-anarchy-op2.png" alt="e.g image">
 
 Icon theme that combines BeautyLine, Sweet, Tela and Candy, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
