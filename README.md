@@ -8,11 +8,12 @@
 ### Second Anarchy version
 <img src="https://github.com/Akr4ta/akrata-icon-theme/blob/main/image_akrata-anarchy-op2.png" alt="e.g image">
 
-Icon theme that combines BeautyLine, Sweet, Tela and Candy, harmonized with the Catppuccin Mocha color palette.
+Icon theme that combines BeautyLine, Candy, Sweet, Tela and Breeze, harmonized with the Catppuccin Mocha color palette.
 * BeautyLine for the majority of the icons,
-* Tela for symbolic icons,
 * Candy to replace some app icons,
-* Sweet for the cursor and folder themes,
+* Tela for symbolic icons,
+* Sweet for the folders,
+* Breeze for the cursor,
 * Catppuccin Mocha as the color reference.
 
 There are three versions: akrata (the standard), akrata-anarchy, and akrata-anarchy-op2. The only differences are: in the akrata-anarchy version, the menu/app grid icon is replaced by the anarchist "A" symbol, and in akrata-anarchy-op2, the cosmic launcher icon is replaced by the anarchist "A" symbol.
